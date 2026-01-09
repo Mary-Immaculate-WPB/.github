@@ -133,13 +133,13 @@ Mary Immaculate Catholic Church began in May 1974 when Father Michael Devaney, M
 
 ## 📄 License & Attribution
 
-This digital ministry is maintained with love and dedication to serve the Mary Immaculate Catholic Church community.
+This digital ministry is maintained with love and dedication to serve Mary Immaculate Catholic Parish.
+
+---
 
 <div align="center">
 
-**Website donated with ♥ by Joel, Ashley, Andrew & Matthew.**
-
----
+#### **Website donated with ♥ by Joel, Ashley, Andrew & Matthew.**
 
 ### Under the protection of the Blessed Virgin Mary
 

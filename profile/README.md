@@ -1,7 +1,7 @@
+<div align="center">
+
 # Mary Immaculate Catholic Church
 ### West Palm Beach, Florida
-
-<div align="center">
 
 **Serving the Diocese of Palm Beach since August 1974**
 

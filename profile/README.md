@@ -101,10 +101,11 @@ Our parish website is built with modern web technologies to ensure accessibility
 Mary Immaculate Catholic Church began in May 1974 when Father Michael Devaney, Missionary Oblates of Mary Immaculate, was assigned to start a mission church in West Palm Beach. The first Mass was celebrated on September 26, 1974, with 56 people present.
 
 **Key Milestones:**
-- **1974** - First Mass celebrated at Cardinal Newman High School
-- **1982** - New church dedicated on October 9
-- **1994** - Pastoral care transferred to Diocese of Palm Beach
-- **2002** - Father Tomasz Makowski appointed pastor (serving to present)
+- **1974** - First Mass celebrated at Cardinal Newman High School.
+- **1982** - New church dedicated on October 9.
+- **1994** - Pastoral care transferred to Diocese of Palm Beach.
+- **2002** - Father Tomasz Makowski appointed pastor.
+- **2026** - Father Marc Gustinelli appointed pastor (serving to present).
 
 ---
 
@@ -139,7 +140,7 @@ This digital ministry is maintained with love and dedication to serve Mary Immac
 
 <div align="center">
 
-#### **Website donated with ♥ by Joel, Ashley, Andrew & Matthew.**
+#### **Website donated with ♥ by the Brigida Family.**
 
 ### Under the protection of the Blessed Virgin Mary
 

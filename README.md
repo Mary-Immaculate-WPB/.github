@@ -1,10 +1,8 @@
 # About Us:
 
-This repo contains the organization's profile `README.md`
+This repo contains the organization's profile `README.md` file.
 
-Any changes require a pull request and admin approval. Thank You.
-
-### Test Text
+All changes require a pull request and admin approval.
 
 ## Status:
 
